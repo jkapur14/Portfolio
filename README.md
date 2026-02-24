@@ -55,3 +55,10 @@ Yahoo Finance API – historical stock data
 Conclusion
 
 This project demonstrates how Python and data analytics can be used to interpret complex financial behavior, especially in volatile industries like cryptocurrency mining. By analyzing trends, volume, and moving averages, I was able to extract actionable insights that simplify investment decision-making. This repository showcases my ability to handle data collection, processing, visualization, and analysis end-to-end.
+
+
+<img width="530" height="541" alt="image" src="https://github.com/user-attachments/assets/71c6bdfd-d44d-48a9-a067-6442e5e4f52d" />
+<img width="560" height="574" alt="image" src="https://github.com/user-attachments/assets/5183c9f4-e54c-4886-8490-0320d1a868bd" />
+<img width="564" height="573" alt="image" src="https://github.com/user-attachments/assets/b0fe3fad-a216-4f5d-b272-c1a73101e5e7" />
+
+
