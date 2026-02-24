@@ -1,0 +1,54 @@
+Bitcoin Mining Company Analysis
+
+MGS 314 Final Project
+
+Overview
+
+This project analyzes the performance of three publicly traded Bitcoin mining companies: Cipher Mining (CIFR), TeraWulf (WULF), and Bitfarms (BITF). Using Python, Pandas, Matplotlib, and data from the Yahoo Finance API, I performed a comprehensive analysis of stock performance over the past five years, including moving averages, volume trends, and momentum analysis. The goal was to provide actionable insights into the companies’ volatility, growth potential, and long-term investment opportunities.
+
+Companies Analyzed
+
+Cipher Mining (CIFR) – New York, with large operations in Texas
+Industrial-scale Bitcoin mining with low-cost power and large data centers. High volatility tied to Bitcoin cycles.
+
+TeraWulf (WULF) – Easton, Maryland
+Focused on sustainable energy (nuclear, hydro) and expanding into high-performance computing (HPC), offering more stability than traditional miners.
+
+Bitfarms (BITF) – Toronto, Canada
+Long-operating public miner with vertically integrated operations across multiple countries. Cyclical performance supported by diversified operations.
+
+My Contributions
+
+Collected and cleaned historical stock data using the Yahoo Finance API
+
+Performed data analysis with Pandas, including moving averages and volume trends
+
+Created visualizations with Matplotlib to highlight stock patterns, cycles, and momentum
+
+Generated insights to support investment decisions based on trends and volatility
+
+Note: Other team members contributed to the written report, but all coding, analysis, and visualizations were completed by me.
+
+Key Findings
+
+CIFR: Strong momentum in 2024–2025, consolidating around $17–$20. High-risk, high-reward investment.
+
+WULF: Stable, consistent growth with clean energy initiatives and new HPC partnerships. Reliable medium-risk investment.
+
+BITF: Positive recent movement above its 100-day moving average. Long-term hold with potential from HPC expansion.
+
+Investment Recommendations
+Company	Ticker	Recommendation	Notes
+Cipher Mining	$CIFR	Buy	High volatility, strong recent momentum, HPC contracts
+TeraWulf	$WULF	Buy	Stable growth, clean energy, recent corporate partnerships
+Bitfarms	$BITF	Buy	Upward trend, diversifying into HPC, long-term potential
+Tools & Technologies
+
+Python – data analysis, calculations, visualizations
+
+Pandas – data cleaning and manipulation
+
+Matplotlib – charts and plots
+
+Yahoo Finance API – historical stock data
+
