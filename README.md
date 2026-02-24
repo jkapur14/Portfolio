@@ -52,3 +52,6 @@ Matplotlib – charts and plots
 
 Yahoo Finance API – historical stock data
 
+Conclusion
+
+This project demonstrates how Python and data analytics can be used to interpret complex financial behavior, especially in volatile industries like cryptocurrency mining. By analyzing trends, volume, and moving averages, I was able to extract actionable insights that simplify investment decision-making. This repository showcases my ability to handle data collection, processing, visualization, and analysis end-to-end.
